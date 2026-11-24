@@ -219,3 +219,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 hyperenv/
+dataset/
+# Hyperspectral dataset - keep locally, don't upload to GitHub
+/dataset/

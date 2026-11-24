@@ -13,3 +13,5 @@ spectral
 h5py 
 tifffile
 pytest
+pectral 
+pillow
