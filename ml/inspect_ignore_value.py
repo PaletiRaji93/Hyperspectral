@@ -29,7 +29,7 @@ data = np.load(DATA_PATH)
 X = data["X"]
 y = data["y"]
 wavelengths = data["wavelengths"]
-coordinates = data["coordinates"]
+coordinates = data["coords"]
 
 image = open_image(str(HDR_PATH))
 metadata = image.metadata
